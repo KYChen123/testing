@@ -13,6 +13,7 @@ _python_
 
 -markdown emoji
 
+- https://github.com/guodongxiaren/README/blob/master/emoji.md
 cry  :sob:
 shit  :poop:
 
