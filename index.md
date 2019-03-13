@@ -9,4 +9,4 @@
 _python_
 ~python~
 
-![cute_cat](https://github.com/KYChen123/testing/blob/master/4-ways-cheer-up-depressed-cat.jpg)
+![cute_cat](4-ways-cheer-up-depressed-cat.jpg)
