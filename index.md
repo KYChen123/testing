@@ -13,7 +13,9 @@ _python_
 
 -markdown emoji
 
-:sob:
-:poop:
+cry  :sob:
+shit  :poop:
 
 - https://myoctocat.com/build-your-octocat/
+
+- https://kychen123.github.io/testing/
