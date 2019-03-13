@@ -10,3 +10,7 @@ _python_
 ~python~
 
 ![cute_cat](4-ways-cheer-up-depressed-cat.jpg)
+
+-markdown emoji
+
+:sob:
